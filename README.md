@@ -32,10 +32,12 @@ Welcome to **Little Lemon**, an elegant one-page restaurant website where you ca
 ---
 
 ## 📷 Screenshots
+## 📷 Screenshots
 
-| Home Page | Menu Section | Reservation Form |
-|---|---|---|
-| ![Home](./screenshots/home.png) | ![Menu](./screenshots/menu.png) | ![Reservation](./screenshots/reservation.png) |
+| Home Page | Menu Section | Reservation Form | Customer Reviews |
+|---|---|---|---|
+| ![Home](./screenshots/home.png) | ![Menu](./screenshots/menu.png) | ![Reservation](./screenshots/reservation.png) | ![Reviews](./screenshots/review.png) |
+
 
 *(Replace the image links with your actual uploaded screenshots in a `screenshots` folder.)*
 
