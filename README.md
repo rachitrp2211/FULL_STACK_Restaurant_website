@@ -1,54 +1,98 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+# 🍋 Little Lemon Restaurant Website
 
-  <br />
-  <br />
+Welcome to **Little Lemon**, an elegant one-page restaurant website where you can explore our menus, check upcoming events, and make table reservations online with ease.
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+![Little Lemon Banner](link-to-your-banner-or-screenshot-if-hosted)
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+---
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+## ✨ Features
 
-</div>
+- 📝 **Online Table Reservation**  
+  Book your table online directly from the website.
 
-<br />
+- 📋 **Menu & Prices**  
+  View our detailed menu with prices and special items.
 
-### Demo Screeshots
+- 🎉 **Upcoming Events**  
+  Stay updated with upcoming events and celebrations at Little Lemon.
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+- 🏆 **Our Best Quality Highlights**  
+  Discover what makes Little Lemon special through our quality showcase.
 
-### Prerequisites
+- 🏠 **About Us & Ambience**  
+  Learn about our story and feel the restaurant's ambience before visiting.
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 🚀 Deployment
 
-### Run Locally
+🔗 **Live Site:** [Visit Little Lemon](your-deployed-link-here) *(add link if deployed on Vercel/Netlify/GitHub Pages)*
 
-To run **Grilli** locally, run this command on your git bash:
+---
 
-Linux and macOS:
+## 📷 Screenshots
+## 📷 Screenshots
 
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
+| Home Page | Menu Section | Reservation Form | Customer Reviews |
+|---|---|---|---|
+| ![Home](./screenshots/home.png) | ![Menu](./screenshots/menu.png) | ![Reservation](./screenshots/reservation.png) | ![Reviews](./screenshots/review.png) |
 
-Windows:
 
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
+*(Replace the image links with your actual uploaded screenshots in a `screenshots` folder.)*
 
-### Contact
+---
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+## 🛠️ Tech Stack
 
-### License
+- HTML5
+- CSS3
+- JavaScript
+- node.js
+- mongodb
+- postman
 
-[MIT](https://choosealicense.com/licenses/mit/)
+---
+
+## 💡 Future Improvements
+
+- Integrate backend for live table bookings
+- Add user authentication for reservations
+- Responsive redesign for enhanced mobile UX
+
+---
+
+## 📌 Installation
+
+If you want to run it locally:
+
+1. Clone the repository
+
+    ```bash
+    git clone https://github.com/rachitrp2211/FULL_STACK_Restaurant_website.git
+    ```
+
+2. Open `index.html` in your browser.
+
+---
+
+## 👤 Author
+
+- **Your Name:** Rachit Patel *(replace if using your GitHub username or real name)*  
+- **GitHub:** [yourusername](https://github.com/rachitrp2211)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+### 🌟 Support
+
+If you like this project, give it a ⭐️ on GitHub to support my work.
+
+---
+
+> **Little Lemon – Where taste meets tradition.**
