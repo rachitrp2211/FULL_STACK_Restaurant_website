@@ -79,7 +79,7 @@ If you want to run it locally:
 ## 👤 Author
 
 - **Your Name:** Rachit Patel *(replace if using your GitHub username or real name)*  
-- **GitHub:** [yourusername](https://github.com/rachitrp2211)
+- **GitHub:** [rachitrp2211](https://github.com/rachitrp2211)
 
 ---
 
