@@ -2,7 +2,7 @@
 
 Welcome to **Little Lemon**, an elegant one-page restaurant website where you can explore our menus, check upcoming events, and make table reservations online with ease.
 
-![Little Lemon Banner](link-to-your-banner-or-screenshot-if-hosted)
+![Little Lemon Banner](./screenshots/logo.png)
 
 ---
 
